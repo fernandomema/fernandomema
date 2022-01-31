@@ -1,8 +1,22 @@
 <h1 align="center">Hi 👋, I'm Fernando</h1>
-<h3 align="center">A passionate full-stack developer from Spain</h3>
+<h3 align="center">A passionate full-stack web developer from Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fernandomema&label=Profile%20views&color=0e75b6&style=flat" alt="fernandomema" /> </p>
 
+ ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
+- 🏦 I'm a Web Developer, currently working at <a href="https://www.viajesparati.com/"> Viajes Para Ti </a>
+- 💻 I use daily **.js**, **.php**, **.sql**, **.sh**
+- My favorite programming language is Javascript.
+- 👩‍🏫 Love teaching and sharing knowledge.
+- 🧐 Learning about **serverless architectures**, **distributed systems**, and a bit of **Machine learning**.
+- ⌨️ My favourite IDE is **VS code**.
+- Big fan of linux.
+- 💡  My goal for **2022** is to create an **augmented or virtual reality** project.
+
+- ⚡ Fun fact: I like videogames where you can code something into them
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+<hr>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fernandomema" alt="fernandomema" /></a> </p>
 
 
