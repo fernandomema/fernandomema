@@ -49,16 +49,17 @@
 
 <h4 align="left">Services:</h4>
 <p align="left">
-      <!-- vercel -->
-      <!-- netlify -->
+      <a href="https://vercel.com/" target="_blank" title="Vercel"> <img src="https://www.iconbolt.com/preview/facebook/ionicons-regular/logo-vercel.svg" alt="vercel" width="40" height="40"/> </a>
+      <a href="https://www.netlify.com/" target="_blank" title="Vercel"> <img src="https://www.netlify.com/icon.svg" alt="netlify" width="40" height="40"/> </a>
       <!-- pocketbase -->
 </p>
 
 <h4 align="left">Frameworks:</h4>
 <p align="left">
-      <a href="https://svelte.dev/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Svelte_logo_by_gengns.svg" alt="svelte" width="40" height="40"/> </a>
-      <a href="https://kit.svelte.dev/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Svelte_logo_by_gengns.svg" alt="sveltekit" width="40" height="40"/> </a>
+      <a href="https://svelte.dev/" target="_blank" title="Svelte"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Svelte_logo_by_gengns.svg" alt="svelte" width="40" height="40"/> </a>
+      <a href="https://kit.svelte.dev/" target="_blank" title="Sveltekit"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Svelte_logo_by_gengns.svg" alt="sveltekit" width="40" height="40"/> </a>
       <a href="https://laravel.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/> </a> 
+      <a href="https://symfony.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/symfony.svg" alt="symfony" width="40" height="40"/> </a> 
       <a href="https://angular.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40"/> </a>
       <a href="https://nextjs.org/" target="_blank"> <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" alt="nextjs" width="40" height="40"/> </a> 
 </p>
@@ -76,6 +77,10 @@
       <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
       <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 </p> 
+
+### <img src="https://cdn3.emoji.gg/emojis/5619_caxinha_trophy.png" width="45px"> Projects
+<p>Some Cool projects made by me</p>
+
  
 ### <img src="https://cdn3.emoji.gg/emojis/5619_caxinha_trophy.png" width="45px"> Achivements
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fernandomema" alt="fernandomema" /></a> </p>
