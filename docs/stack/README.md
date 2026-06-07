@@ -8,6 +8,7 @@ This document provides an overview of the Stack libaries and how to use them in 
 - **Icon system**: Iconify. Tailwind 4 plugin for Iconify icons.
 - **Database system**: PrismaDB
 - **Auth system**: better-auth. A simple and secure authentication library.
+  - JWT based auth with refresh token.
 - **Video player**: vidstack. A customizable video player library.
     - Integrations:
         - hls.js: A JavaScript library for playing HLS (HTTP Live Streaming) videos.
