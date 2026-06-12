@@ -21,5 +21,13 @@ This document provides an overview of the Stack libaries and how to use them in 
 - **Auto animate**: A library for creating smooth animations with minimal code.
     - [GitHub Repository](https://auto-animate.formkit.com)
 
+# UI Libraries
+- **Ori UI**: A modern and diverse UI library built for Svelte 5 + Tailwind 4 with 29+ components.
+    - [Website](https://oriui.app)
+    - [GitHub Repository](https://github.com/TheChirag356/ori-ui)
+    - Widgets: Browser Window, Code Block, File Upload, Gallery, Glare Hover, Hero Video, Lamp, Marquee, Morphic Navbar, PDF Viewer, Ribbon, Simple Card, Tweet Card
+    - Buttons: Copy Button, Interactive Hover Button, IOS Toggle Button, Liquid Button, Moving Border Button, Pulsating Button, Rainbow Button, Ripple Button, Slide Text Button
+    - Text Animations: Animate Text, Count Animation, Shimmer Text, Spinning Text, Text Highlighter, Video Text, Word Rotate
+
 # Cool to check out
 - https://ssgoi.dev
