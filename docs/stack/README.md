@@ -29,5 +29,17 @@ This document provides an overview of the Stack libaries and how to use them in 
     - <img src="https://api.iconify.design/mdi:gesture-tap-button.svg?color=%23EC4899" alt="buttons" width="18" height="18" style="vertical-align: middle;"> Buttons: Copy Button, Interactive Hover Button, IOS Toggle Button, Liquid Button, Moving Border Button, Pulsating Button, Rainbow Button, Ripple Button, Slide Text Button
     - <img src="https://api.iconify.design/mdi:format-text.svg?color=%236366F1" alt="text" width="18" height="18" style="vertical-align: middle;"> Text Animations: Animate Text, Count Animation, Shimmer Text, Spinning Text, Text Highlighter, Video Text, Word Rotate
 
+# Libraries to try
+- <img src="https://api.iconify.design/mdi:email-outline.svg?color=%23FF3E00" alt="email" width="18" height="18" style="vertical-align: middle;"> **Better Svelte Email**: The only way to build emails in Svelte. Email-ready components with first-class Tailwind CSS support and an email preview CLI.
+    - <img src="https://api.iconify.design/mdi:web.svg?color=%233B82F6" alt="Web" width="18" height="18" style="vertical-align: middle;"> [Website](https://better-svelte-email.konixy.dev)
+    - <img src="https://api.iconify.design/mdi:github.svg?color=%23181717" alt="GitHub" width="18" height="18" style="vertical-align: middle;"> [GitHub Repository](https://github.com/Konixy/better-svelte-email)
+    - <img src="https://api.iconify.design/mdi:code-tags.svg?color=%234CAF50" alt="components" width="18" height="18" style="vertical-align: middle;"> Components: Html, Head, Body, Preview, Container, Section, Row, Column, Heading, Text, Button, Link, Img, Hr
+    - <img src="https://api.iconify.design/mdi:palette-outline.svg?color=%23A855F7" alt="features" width="18" height="18" style="vertical-align: middle;"> Features: HTML/plain text renderer, Tailwind v4, local preview CLI, v2 email dev server
+- <img src="https://api.iconify.design/mdi:cellphone.svg?color=%233B82F6" alt="mobile" width="18" height="18" style="vertical-align: middle;"> **Konsta UI**: Pixel perfect mobile UI components built with Tailwind CSS. iOS & Material Design themes for React, Vue & Svelte.
+    - <img src="https://api.iconify.design/mdi:web.svg?color=%233B82F6" alt="Web" width="18" height="18" style="vertical-align: middle;"> [Website](https://konstaui.com)
+    - <img src="https://api.iconify.design/mdi:github.svg?color=%23181717" alt="GitHub" width="18" height="18" style="vertical-align: middle;"> [GitHub Repository](https://github.com/konstaui/konsta)
+    - <img src="https://api.iconify.design/mdi:widgets-outline.svg?color=%2306B6D4" alt="components" width="18" height="18" style="vertical-align: middle;"> Components: App, Action Sheet, Badge, Block, Breadcrumbs, Button, Card, Checkbox, Chip, Contacts List, Data Table, Dialog, FAB, Icon, Link, List, List Button, List Input, List Item, Menu List, Messagebar, Messages, Navbar, Notification, Page, Panel, Popover, Popup, Preloader, Progressbar, Radio, Range Slider, Searchbar, Segmented Control, Sheet Modal, Stepper, Tabbar, Toast, Toggle, Toolbar, Toolbar Pane
+    - <img src="https://api.iconify.design/mdi:theme-light-dark.svg?color=%23A855F7" alt="themes" width="18" height="18" style="vertical-align: middle;"> Themes: iOS 26 & Material Design 2025, v5.1.0
+
 # Cool to check out
 - <img src="https://api.iconify.design/mdi:rocket-launch-outline.svg?color=%23EF4444" alt="rocket" width="18" height="18" style="vertical-align: middle;"> [ssgoi.dev](https://ssgoi.dev)
