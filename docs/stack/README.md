@@ -9,6 +9,7 @@ This document provides an overview of the Stack libaries and how to use them in 
 - **Database system**: PrismaDB
 - **Auth system**: better-auth. A simple and secure authentication library.
   - JWT based auth with refresh token.
+- **Localization**: [Wuchale](https://wuchale.dev/intro/start/)
 - **Video player**: vidstack. A customizable video player library.
     - Integrations:
         - hls.js: A JavaScript library for playing HLS (HTTP Live Streaming) videos.
