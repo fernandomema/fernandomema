@@ -28,6 +28,9 @@ This document provides an overview of the Stack libaries and how to use them in 
     - <img src="https://api.iconify.design/mdi:widgets-outline.svg?color=%2306B6D4" alt="widgets" width="18" height="18" style="vertical-align: middle;"> Widgets: Browser Window, Code Block, File Upload, Gallery, Glare Hover, Hero Video, Lamp, Marquee, Morphic Navbar, PDF Viewer, Ribbon, Simple Card, Tweet Card
     - <img src="https://api.iconify.design/mdi:gesture-tap-button.svg?color=%23EC4899" alt="buttons" width="18" height="18" style="vertical-align: middle;"> Buttons: Copy Button, Interactive Hover Button, IOS Toggle Button, Liquid Button, Moving Border Button, Pulsating Button, Rainbow Button, Ripple Button, Slide Text Button
     - <img src="https://api.iconify.design/mdi:format-text.svg?color=%236366F1" alt="text" width="18" height="18" style="vertical-align: middle;"> Text Animations: Animate Text, Count Animation, Shimmer Text, Spinning Text, Text Highlighter, Video Text, Word Rotate
+- <img src="https://api.iconify.design/mdi:sparkles.svg?color=%23F59E0B" alt="sparkles" width="18" height="18" style="vertical-align: middle;"> **useLayouts**: Premium animated React & Framer Motion components with micro-interactions. Copy-paste components for a polished, high-end feel.
+    - <img src="https://api.iconify.design/mdi:web.svg?color=%233B82F6" alt="Web" width="18" height="18" style="vertical-align: middle;"> [Website](https://uselayouts.com)
+    - <img src="https://api.iconify.design/mdi:github.svg?color=%23181717" alt="GitHub" width="18" height="18" style="vertical-align: middle;"> [GitHub Repository](https://github.com/iurvish/uselayouts)
 
 # Libraries to try
 - <img src="https://api.iconify.design/mdi:email-outline.svg?color=%23FF3E00" alt="email" width="18" height="18" style="vertical-align: middle;"> **Better Svelte Email**: The only way to build emails in Svelte. Email-ready components with first-class Tailwind CSS support and an email preview CLI.
